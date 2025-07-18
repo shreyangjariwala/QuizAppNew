@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_animal_quiz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Animal Quiz"/>
+
+    <Button
+        android:id="@+id/btn_sport_quiz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sport Quiz"/>
+</LinearLayout>
